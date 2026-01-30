@@ -10,7 +10,7 @@ console.log(name);
 // Stampa tutti i valori nella console.
 const text = 'Fabio';
 const number = 25;
-const booleano = 'false';
+const booleano = false;
 
 console.log(typeof 'Fabio');
 console.log(typeof 25);
